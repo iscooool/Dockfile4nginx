@@ -10,3 +10,5 @@ You can clone this repo and create image by using docker build command.
 git clone git@github.com:iscooool/Dockfile4nginx.git
 sudo docker build –t nginx:stable .
 ```
+
+after that you can add you web project in `/var/www/html`.
